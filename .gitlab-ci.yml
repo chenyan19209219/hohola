@@ -1,0 +1,5 @@
+job1:
+  script: "pwd"
+
+job2:
+  script: "uname -a"
